@@ -1,7 +1,8 @@
 # Intro to RL
 Course Website : https://amfarahmand.github.io/IntroRL/ 
 ### Progress
-Lecture 1
+Lecture 1 [x]
+Lecture 2
 ### Homeworks
 
 ### Reading Summaries
