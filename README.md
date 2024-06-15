@@ -3,7 +3,8 @@ Course Website : https://amfarahmand.github.io/IntroRL/
 ### Progress
 Lecture 1 [x] \
 Lecture 2 [x] \
-Lecture 3 []
+Lecture 3 [x] \
+Lecture 4 []
 ### Homeworks
 
 ### Reading Summaries
